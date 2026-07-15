@@ -1,2 +1,2 @@
 # SalesAnalyticsDW
-Beispielhaftes Analyseprojekt mit KI-generierten Daten um eine Sales-Analyse beispeilhaft zu verdeutlichen.
+Beispielhaftes Analyseprojekt mit KI-generierten Daten um eine Sales-Analyse beispielhaft zu verdeutlichen.
